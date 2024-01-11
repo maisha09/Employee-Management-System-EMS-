@@ -1,0 +1,94 @@
+.loginPage {
+    background: url('ems.jpg');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("ems.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm {
+    background-color: rgba(1, 32, 93, 0.6);
+    color: black;
+}
+
+.employee_image{
+    width: 40px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+/* Home.css */
+
+.box {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    width: 45%; /* Adjust the width as needed */
+    text-align: center;
+  }
+  
+  .box h4 {
+    color: #333;
+  }
+  
+  .box hr {
+    border-top: 1px solid #ddd;
+  }
+  
+  .box h5 {
+    color: #555;
+  }
+  
+  /* Add more styles as needed */
+
+  
+  
+
+  /* Employee.css */
+
+/* Style for the required field star mark */
+.required-field {
+  color: red; /* Change the star mark color to red */
+  margin-left: 3px; /* Adjust the spacing between the label text and the star mark */
+}
+
+
+/* ////Profile */
+.centered-chart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh; /* Adjust the height as needed */
+}
+
+
+.centered-chart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.Profile {
+  text-align: center;
+  background-color: #f0f0f0; /* Background color for the box */
+  padding: 30px; /* Adjust padding as needed */
+  border-radius: 10px; /* Add rounded corners to the box */
+}
+
+h1 {
+  display: inline-block;
+  background-color: none; /* Background color for the text */
+  padding: 10px; /* Adjust padding as needed */
+  color: white; /* Text color */
+  border-radius: 5px; /* Add rounded corners to the text box */
+}
+.logo {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 200px;
+  height: 50px;
+}
